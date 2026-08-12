@@ -3,7 +3,7 @@
   "name": "Smart Math Paste",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
-  "description": "Repair math expressions copied from AI chat interfaces and convert them into Obsidian-compatible MathJax syntax.",
+  "description": "Repair broken LaTeX and MathJax formulas copied from ChatGPT and other AI chat interfaces into Obsidian.",
   "author": "Adrian",
   "isDesktopOnly": false
 }
