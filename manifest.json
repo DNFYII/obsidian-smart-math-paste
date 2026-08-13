@@ -1,7 +1,7 @@
 {
   "id": "smart-math-paste",
   "name": "Smart Math Paste",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "minAppVersion": "0.15.0",
   "description": "Repair broken LaTeX and MathJax formulas copied from ChatGPT and other AI chat interfaces into Obsidian.",
   "author": "Adrian",
